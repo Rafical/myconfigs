@@ -13,14 +13,14 @@ html {
   box-sizing: border-box;
 }
 
-ol, ul {
-	list-style: none;
-}
-
 *,
 *:before,
 *:after {
   box-sizing: inherit;
+}
+
+ol, ul {
+	list-style: none;
 }
 
 img,
