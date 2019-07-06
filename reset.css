@@ -19,7 +19,8 @@ html {
   box-sizing: inherit;
 }
 
-ol, ul {
+ol,
+ul {
 	list-style: none;
 }
 
